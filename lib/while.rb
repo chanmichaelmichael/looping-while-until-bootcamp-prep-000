@@ -3,7 +3,7 @@ def using_while
 	
   #your code here
   while do
-    puts "Wing"
+    puts "Wingardium Leviosa"
   end
 end
 
