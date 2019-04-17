@@ -4,6 +4,7 @@ def using_while
   #your code here
   while do
     puts "Wingardium Leviosa"
+    
   end
 end
 
