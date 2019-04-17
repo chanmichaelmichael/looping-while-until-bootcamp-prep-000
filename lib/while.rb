@@ -3,6 +3,7 @@ def using_while
 	
   #your code here
   while do
+    puts "Wing"
   end
 end
 
